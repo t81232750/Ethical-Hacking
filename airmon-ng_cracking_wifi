@@ -40,7 +40,7 @@ wireshark hack1-01.cap
 eapol
 
 !Stop monitor mode
-airmon-ng stop wlan0mon
+sudo airmon-ng stop wlan0mon
 
 !Crack file with Rock you or another wordlist
 !Make sure you have rockyou in text format (unzip file on Kali)
